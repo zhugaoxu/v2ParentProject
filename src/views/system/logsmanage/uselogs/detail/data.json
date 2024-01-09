@@ -1,0 +1,706 @@
+{
+    "nodes": [
+      {
+        "id": "04e8949a-90cf-4da1-aec9-78de0d704f18",
+        "type": "基础档案",
+        "x": 550,
+        "y": 400,
+        "properties": {
+          "text": "基础档案",
+          "name": "",
+          "region": "",
+          "type": "",
+          "a": {
+            "a1": "",
+            "a2": ""
+          },
+          "menuId": "25A4B450-88CB-406A-95CC-9883B63787C4",
+          "menuIcon": "基础档案"
+        },
+        "text": {
+          "x": 550,
+          "y": 400,
+          "value": "基础档案"
+        }
+      },
+      {
+        "id": "9ec921b7-b882-45fa-95bc-d4d89e18c975",
+        "type": "registLing",
+        "x": 760,
+        "y": 220,
+        "properties": {
+          "text": "中转站",
+          "name": "",
+          "region": "",
+          "type": "",
+          "a": {
+            "a1": "",
+            "a2": ""
+          }
+        },
+        "text": {
+          "x": 760,
+          "y": 220,
+          "value": "中转站"
+        }
+      },
+      {
+        "id": "8872e095-a0a2-4371-ab91-4696cccb4bea",
+        "type": "销售管理",
+        "x": 1000,
+        "y": 400,
+        "properties": {
+          "text": "销售管理",
+          "name": "",
+          "region": "",
+          "type": "",
+          "a": {
+            "a1": "",
+            "a2": ""
+          },
+          "menuId": "A7923FB6-FF57-4FBC-9221-9ABC3312C87F",
+          "menuIcon": "销售管理"
+        },
+        "text": {
+          "x": 1000,
+          "y": 400,
+          "value": "销售管理"
+        }
+      },
+      {
+        "id": "899bf212-cead-4bb7-9b88-d50a966fa701",
+        "type": "发票管理",
+        "x": 750,
+        "y": 600,
+        "properties": {
+          "text": "计划管理",
+          "menuId": "E2D2F037-66E8-40AA-B272-AFA5832A1708",
+          "menuIcon": "发票管理"
+        },
+        "text": {
+          "x": 750,
+          "y": 600,
+          "value": "计划管理"
+        }
+      },
+      {
+        "id": "319d96f7-0639-4fed-a693-34cb6184498f",
+        "type": "采购管理",
+        "x": 940,
+        "y": 600,
+        "properties": {
+          "text": "采购管理",
+          "menuId": "DF5ABB8F-BFAA-4B36-B04B-2250BAC1FD7E",
+          "menuIcon": "采购管理"
+        },
+        "text": {
+          "x": 940,
+          "y": 600,
+          "value": "采购管理"
+        }
+      },
+      {
+        "id": "dd068bc2-0d6b-477e-90cf-25e23f46d06c",
+        "type": "委外管理",
+        "x": 1210,
+        "y": 610,
+        "properties": {
+          "text": "委外管理",
+          "menuId": "23D39B89-3E41-4787-8234-0A0F437CD06F",
+          "menuIcon": "委外管理"
+        },
+        "text": {
+          "x": 1210,
+          "y": 610,
+          "value": "委外管理"
+        }
+      },
+      {
+        "id": "e7d6fe8d-b040-4f74-8666-5a8f5c6277ab",
+        "type": "registUser",
+        "x": 1260,
+        "y": 410,
+        "properties": {
+          "text": "质量管理",
+          "menuId": "1C43FFC7-F87C-4C47-A051-8107CE965AD5",
+          "menuIcon": "待检仓库"
+        },
+        "text": {
+          "x": 1260,
+          "y": 410,
+          "value": "质量管理"
+        }
+      },
+      {
+        "id": "0af1c78c-0a29-44f9-ae8c-2342ec361e22",
+        "type": "registUser",
+        "x": 940,
+        "y": 780,
+        "properties": {
+          "text": "仓储管理",
+          "menuId": "F6E38E21-704F-39DB-D8BA-160E029694B6",
+          "menuIcon": "半成品仓"
+        },
+        "text": {
+          "x": 940,
+          "y": 780,
+          "value": "仓储管理"
+        }
+      },
+      {
+        "id": "c452a9b6-f9ee-4de6-ab57-66fdb050378b",
+        "type": "registUser",
+        "x": 1260,
+        "y": 760,
+        "properties": {
+          "text": "财务管理",
+          "menuId": "B3D0ADE3-472C-E72B-6FF8-1CBE634E6387",
+          "menuIcon": "现金管理"
+        },
+        "text": {
+          "x": 1260,
+          "y": 760,
+          "value": "财务管理"
+        }
+      },
+      {
+        "id": "d1287840-3535-4429-b071-bbd5e5eea19b",
+        "type": "registUser",
+        "x": 1500,
+        "y": 300,
+        "properties": {
+          "text": "系统管理",
+          "menuId": "26D8B9E3-59C1-476F-9D04-009BC53508BA",
+          "menuIcon": "系统管理"
+        },
+        "text": {
+          "x": 1500,
+          "y": 300,
+          "value": "系统管理"
+        }
+      },
+      {
+        "id": "fafe99ab-81a9-4431-8393-23826edf8359",
+        "type": "registUser",
+        "x": 1470,
+        "y": 520,
+        "properties": {
+          "text": "开发测试",
+          "menuId": "48DEAC04-FF0D-4BEB-A36A-9EA19250C879",
+          "menuIcon": "开发测试"
+        },
+        "text": {
+          "x": 1470,
+          "y": 520,
+          "value": "开发测试"
+        }
+      },
+      {
+        "id": "777c0a82-c792-4576-8597-a0df4463c745",
+        "type": "registUser",
+        "x": 1700,
+        "y": 630,
+        "properties": {
+          "text": "协同管理",
+          "menuId": "8F732B08-A735-5D51-FF16-7621039F04DB",
+          "menuIcon": "仓库权限维护"
+        },
+        "text": {
+          "x": 1700,
+          "y": 630,
+          "value": "协同管理"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "id": "18ab8502-9ef6-4894-af5f-795f2728b2e1",
+        "type": "polyline",
+        "sourceNodeId": "04e8949a-90cf-4da1-aec9-78de0d704f18",
+        "targetNodeId": "9ec921b7-b882-45fa-95bc-d4d89e18c975",
+        "startPoint": {
+          "x": 625,
+          "y": 400
+        },
+        "endPoint": {
+          "x": 715,
+          "y": 220
+        },
+        "properties": {},
+        "text": {
+          "x": 685,
+          "y": 360,
+          "value": "随心 "
+        },
+        "pointsList": [
+          {
+            "x": 625,
+            "y": 400
+          },
+          {
+            "x": 685,
+            "y": 400
+          },
+          {
+            "x": 685,
+            "y": 220
+          },
+          {
+            "x": 715,
+            "y": 220
+          }
+        ]
+      },
+      {
+        "id": "33c60fb9-7fda-4706-a885-66ab6a67cebe",
+        "type": "polyline",
+        "sourceNodeId": "9ec921b7-b882-45fa-95bc-d4d89e18c975",
+        "targetNodeId": "8872e095-a0a2-4371-ab91-4696cccb4bea",
+        "startPoint": {
+          "x": 805,
+          "y": 220
+        },
+        "endPoint": {
+          "x": 925,
+          "y": 400
+        },
+        "properties": {},
+        "text": {
+          "x": 895,
+          "y": 332,
+          "value": "失败的话"
+        },
+        "pointsList": [
+          {
+            "x": 805,
+            "y": 220
+          },
+          {
+            "x": 895,
+            "y": 220
+          },
+          {
+            "x": 895,
+            "y": 400
+          },
+          {
+            "x": 925,
+            "y": 400
+          }
+        ]
+      },
+      {
+        "id": "a1cd8151-5a68-4802-b432-da8bda47064d",
+        "type": "polyline",
+        "sourceNodeId": "8872e095-a0a2-4371-ab91-4696cccb4bea",
+        "targetNodeId": "8872e095-a0a2-4371-ab91-4696cccb4bea",
+        "startPoint": {
+          "x": 1075,
+          "y": 400
+        },
+        "endPoint": {
+          "x": 1000,
+          "y": 425
+        },
+        "properties": {},
+        "text": {
+          "x": 1105,
+          "y": 433,
+          "value": "自己调用"
+        },
+        "pointsList": [
+          {
+            "x": 1075,
+            "y": 400
+          },
+          {
+            "x": 1105,
+            "y": 400
+          },
+          {
+            "x": 1105,
+            "y": 455
+          },
+          {
+            "x": 1000,
+            "y": 455
+          },
+          {
+            "x": 1000,
+            "y": 425
+          }
+        ]
+      },
+      {
+        "id": "5235b68b-213b-4aa9-8ef7-0c7f543732a8",
+        "type": "polyline",
+        "sourceNodeId": "04e8949a-90cf-4da1-aec9-78de0d704f18",
+        "targetNodeId": "899bf212-cead-4bb7-9b88-d50a966fa701",
+        "startPoint": {
+          "x": 625,
+          "y": 400
+        },
+        "endPoint": {
+          "x": 675,
+          "y": 600
+        },
+        "properties": {},
+        "pointsList": [
+          {
+            "x": 625,
+            "y": 400
+          },
+          {
+            "x": 645,
+            "y": 400
+          },
+          {
+            "x": 645,
+            "y": 600
+          },
+          {
+            "x": 675,
+            "y": 600
+          }
+        ]
+      },
+      {
+        "id": "2e229261-50ef-49e0-9a5e-ed147414227b",
+        "type": "polyline",
+        "sourceNodeId": "899bf212-cead-4bb7-9b88-d50a966fa701",
+        "targetNodeId": "319d96f7-0639-4fed-a693-34cb6184498f",
+        "startPoint": {
+          "x": 825,
+          "y": 600
+        },
+        "endPoint": {
+          "x": 865,
+          "y": 600
+        },
+        "properties": {},
+        "pointsList": [
+          {
+            "x": 825,
+            "y": 600
+          },
+          {
+            "x": 855,
+            "y": 600
+          },
+          {
+            "x": 855,
+            "y": 600
+          },
+          {
+            "x": 835,
+            "y": 600
+          },
+          {
+            "x": 835,
+            "y": 600
+          },
+          {
+            "x": 865,
+            "y": 600
+          }
+        ]
+      },
+      {
+        "id": "7abac9a9-e9e1-47d6-a7ee-f3260dbb8e36",
+        "type": "polyline",
+        "sourceNodeId": "319d96f7-0639-4fed-a693-34cb6184498f",
+        "targetNodeId": "dd068bc2-0d6b-477e-90cf-25e23f46d06c",
+        "startPoint": {
+          "x": 1015,
+          "y": 600
+        },
+        "endPoint": {
+          "x": 1210,
+          "y": 635
+        },
+        "properties": {},
+        "pointsList": [
+          {
+            "x": 1015,
+            "y": 600
+          },
+          {
+            "x": 1045,
+            "y": 600
+          },
+          {
+            "x": 1045,
+            "y": 665
+          },
+          {
+            "x": 1210,
+            "y": 665
+          },
+          {
+            "x": 1210,
+            "y": 635
+          }
+        ]
+      },
+      {
+        "id": "7b55885a-96af-41bc-9942-2ae81bdb34a7",
+        "type": "polyline",
+        "sourceNodeId": "8872e095-a0a2-4371-ab91-4696cccb4bea",
+        "targetNodeId": "e7d6fe8d-b040-4f74-8666-5a8f5c6277ab",
+        "startPoint": {
+          "x": 1075,
+          "y": 400
+        },
+        "endPoint": {
+          "x": 1260,
+          "y": 385
+        },
+        "properties": {},
+        "pointsList": [
+          {
+            "x": 1075,
+            "y": 400
+          },
+          {
+            "x": 1105,
+            "y": 400
+          },
+          {
+            "x": 1105,
+            "y": 355
+          },
+          {
+            "x": 1260,
+            "y": 355
+          },
+          {
+            "x": 1260,
+            "y": 385
+          }
+        ]
+      },
+      {
+        "id": "eeae8f33-4019-4b2f-9598-fee9f6a77538",
+        "type": "polyline",
+        "sourceNodeId": "e7d6fe8d-b040-4f74-8666-5a8f5c6277ab",
+        "targetNodeId": "d1287840-3535-4429-b071-bbd5e5eea19b",
+        "startPoint": {
+          "x": 1335,
+          "y": 410
+        },
+        "endPoint": {
+          "x": 1425,
+          "y": 300
+        },
+        "properties": {},
+        "pointsList": [
+          {
+            "x": 1335,
+            "y": 410
+          },
+          {
+            "x": 1395,
+            "y": 410
+          },
+          {
+            "x": 1395,
+            "y": 300
+          },
+          {
+            "x": 1425,
+            "y": 300
+          }
+        ]
+      },
+      {
+        "id": "54cbb4e5-e3d4-4b33-8134-fe82c2baab8b",
+        "type": "polyline",
+        "sourceNodeId": "e7d6fe8d-b040-4f74-8666-5a8f5c6277ab",
+        "targetNodeId": "fafe99ab-81a9-4431-8393-23826edf8359",
+        "startPoint": {
+          "x": 1335,
+          "y": 410
+        },
+        "endPoint": {
+          "x": 1395,
+          "y": 520
+        },
+        "properties": {},
+        "pointsList": [
+          {
+            "x": 1335,
+            "y": 410
+          },
+          {
+            "x": 1365,
+            "y": 410
+          },
+          {
+            "x": 1365,
+            "y": 520
+          },
+          {
+            "x": 1395,
+            "y": 520
+          }
+        ]
+      },
+      {
+        "id": "7ca18343-81c1-4926-814f-f89e612a05df",
+        "type": "polyline",
+        "sourceNodeId": "899bf212-cead-4bb7-9b88-d50a966fa701",
+        "targetNodeId": "0af1c78c-0a29-44f9-ae8c-2342ec361e22",
+        "startPoint": {
+          "x": 750,
+          "y": 625
+        },
+        "endPoint": {
+          "x": 940,
+          "y": 805
+        },
+        "properties": {},
+        "pointsList": [
+          {
+            "x": 750,
+            "y": 625
+          },
+          {
+            "x": 750,
+            "y": 835
+          },
+          {
+            "x": 940,
+            "y": 835
+          },
+          {
+            "x": 940,
+            "y": 805
+          }
+        ]
+      },
+      {
+        "id": "fa90122a-049a-4cda-9504-142a24cd6fe8",
+        "type": "polyline",
+        "sourceNodeId": "0af1c78c-0a29-44f9-ae8c-2342ec361e22",
+        "targetNodeId": "c452a9b6-f9ee-4de6-ab57-66fdb050378b",
+        "startPoint": {
+          "x": 1015,
+          "y": 780
+        },
+        "endPoint": {
+          "x": 1185,
+          "y": 760
+        },
+        "properties": {},
+        "pointsList": [
+          {
+            "x": 1015,
+            "y": 780
+          },
+          {
+            "x": 1100,
+            "y": 780
+          },
+          {
+            "x": 1100,
+            "y": 760
+          },
+          {
+            "x": 1185,
+            "y": 760
+          }
+        ]
+      },
+      {
+        "id": "60c17a2f-fb99-4cfd-9ce9-8d20e9a56357",
+        "type": "polyline",
+        "sourceNodeId": "c452a9b6-f9ee-4de6-ab57-66fdb050378b",
+        "targetNodeId": "777c0a82-c792-4576-8597-a0df4463c745",
+        "startPoint": {
+          "x": 1335,
+          "y": 760
+        },
+        "endPoint": {
+          "x": 1625,
+          "y": 630
+        },
+        "properties": {},
+        "pointsList": [
+          {
+            "x": 1335,
+            "y": 760
+          },
+          {
+            "x": 1365,
+            "y": 760
+          },
+          {
+            "x": 1365,
+            "y": 630
+          },
+          {
+            "x": 1625,
+            "y": 630
+          }
+        ]
+      },
+      {
+        "id": "58f7547d-e1d3-45eb-8ed7-3d0f98fb7c57",
+        "type": "polyline",
+        "sourceNodeId": "d1287840-3535-4429-b071-bbd5e5eea19b",
+        "targetNodeId": "777c0a82-c792-4576-8597-a0df4463c745",
+        "startPoint": {
+          "x": 1575,
+          "y": 300
+        },
+        "endPoint": {
+          "x": 1700,
+          "y": 605
+        },
+        "properties": {},
+        "pointsList": [
+          {
+            "x": 1575,
+            "y": 300
+          },
+          {
+            "x": 1700,
+            "y": 300
+          },
+          {
+            "x": 1700,
+            "y": 605
+          }
+        ]
+      },
+      {
+        "id": "9fea00d1-e0b5-4173-9a6b-30f1b53c97f8",
+        "type": "polyline",
+        "sourceNodeId": "fafe99ab-81a9-4431-8393-23826edf8359",
+        "targetNodeId": "777c0a82-c792-4576-8597-a0df4463c745",
+        "startPoint": {
+          "x": 1470,
+          "y": 545
+        },
+        "endPoint": {
+          "x": 1625,
+          "y": 630
+        },
+        "properties": {},
+        "pointsList": [
+          {
+            "x": 1470,
+            "y": 545
+          },
+          {
+            "x": 1470,
+            "y": 630
+          },
+          {
+            "x": 1625,
+            "y": 630
+          }
+        ]
+      }
+    ]
+  }

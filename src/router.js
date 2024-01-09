@@ -1,13 +1,27 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-
+import Layout from './Layout'
 Vue.use(Router)
 
 export const constantRoutes = [
   {
-    path: '/',
-    component: () => import('@/views/index'),
-    hidden: true
+    path: "/",
+    component: Layout,
+    redirect: "index",
+    children: [
+      {
+        path: 'index',
+        component: () => import('@/views/index.vue'),
+        name: '首页',
+        hidden: true,
+        meta: { title: '首页', icon: 'dashboard', noCache: true, affix: true }
+      },
+    ],
+  },
+  {
+    path: "/login",
+    component: (resolve) => require(["@/views/login"], resolve),
+    hidden: true,
   },
   {
     path: '/sui/my-page',
@@ -30,5 +44,5 @@ export default new Router({
   mode: 'history', // 去掉url中的#
   scrollBehavior: () => ({ y: 0 }),
   routes: constantRoutes,
-  base: window.__MICRO_APP_BASE_ROUTE__ || '/',
+  base:  '/',
 })

@@ -7,3 +7,7 @@
 5. 主项目和子项目之间的通信 核心原理是监听 监听传输当前项目数据和监听全局数据  除此之外 主项目也可传输子项目数据和方法 
 （和常规vue父子通信一样）
 6. 子项目的vue.config.js需要设置下 headers: {'Access-Control-Allow-Origin': '*'} 和proxy代理同级  允许访问
+
+7. 主项目引入vuex和axios并进行封装  引入svgIcon和滴滴工作流
+8. 引入vxe-table和自定义组件库zhudafen
+

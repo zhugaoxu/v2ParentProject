@@ -12,7 +12,7 @@ export default {
   data() {
 
     return {
-      nameA: 'suixinfei',
+      name: 'suixinfei',
       danL: {
         // 传过去的是子组件实际需要的  不需要的就不传了
         name:'傻芬芬来喽',
